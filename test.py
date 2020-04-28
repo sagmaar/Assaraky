@@ -8,11 +8,11 @@ print (f"I is equals to {i}")
 
 x = 50
 if x > 0:
-  print ("X is Greater than 0")
+  print ("X is Lesser ")
   
  elif x < 0:
-   print ("X is Lessthan 0")
+   print ("X is Greater")
    
    
  else:
-   print ("X is neither nor ...")
+   print ("X is neither no")
